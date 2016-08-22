@@ -1,0 +1,24 @@
+{
+  "name":             "drdrds/pirates",
+  "description":      "Pirates Technical Test .",
+  "keywords":         ["pirates", "code kata"],
+  "homepage":         "https://github.com/drdrds/pirates",
+  "authors": [
+    {
+      "name":         "Daniel Scott",
+      "email":        "coder@drdscott.com",
+      "homepage":     "http://drdscott.com",
+      "role":         "keen applicant"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+
+
+}
