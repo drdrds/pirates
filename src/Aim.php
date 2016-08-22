@@ -3,8 +3,8 @@ Namespace Drdrds\Pirates;
 
 Class Aim {
 
-    protected $hit = FALSE;
-    protected $lucky = FALSE;
+    public $hit = FALSE;
+    public $lucky = FALSE;
 
     public function __construct()
     {
